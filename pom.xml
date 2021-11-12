@@ -16,7 +16,11 @@
 
     <repositories>
         <repository>
-            <id>Mojang</id>
+            <id>sonatype</id>
+            <url>https://repository.sonatype.org/content/groups/public/</url>
+        </repository>
+        <repository>
+            <id>minecraft-libraries</id>
             <url>https://libraries.minecraft.net</url>
         </repository>
     </repositories>
